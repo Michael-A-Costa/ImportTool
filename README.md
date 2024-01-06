@@ -4,4 +4,4 @@ This is an example of a RabbitMQ worker I created that takes in a message and wo
 
 Also included is extensive testing for that file, as well as a file containing the sqlachemy database queries and connections used in the RabbitMQ worker.
 
-All code was written by me, with some documentation, type hinting, improvements, and test cases written or completed by AI
+All code was written by me, with some documentation, type hinting, improvements, and test cases written or completed by AI. Any reference to sensitive data has been obfuscated or removed
